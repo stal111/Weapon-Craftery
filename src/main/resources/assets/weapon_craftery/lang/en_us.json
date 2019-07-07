@@ -1,0 +1,36 @@
+{
+  "_comment": "Item Groups",
+  "itemGroup.weapon_craftery": "Weapon Craftery",
+
+  "___comment": "Items",
+  "item.weapon_craftery.oak_stick": "Oak Stick",
+  "item.weapon_craftery.oak_sword": "Oak Sword",
+  "item.weapon_craftery.spruce_stick": "Spruce Stick",
+  "item.weapon_craftery.spruce_sword": "Spruce Sword",
+  "item.weapon_craftery.birch_stick": "Birch Stick",
+  "item.weapon_craftery.birch_sword": "Birch Sword",
+  "item.weapon_craftery.jungle_stick": "Jungle Stick",
+  "item.weapon_craftery.jungle_sword": "Jungle Sword",
+  "item.weapon_craftery.acacia_stick": "Acacia Stick",
+  "item.weapon_craftery.acacia_sword": "Acacia Sword",
+  "item.weapon_craftery.dark_oak_stick": "Dark Oak Stick",
+  "item.weapon_craftery.dark_oak_sword": "Dark Oak Sword",
+  "item.weapon_craftery.stone_sword": "Stone Sword",
+  "item.weapon_craftery.iron_sword": "Iron Sword",
+  "item.weapon_craftery.diamond_sword": "Diamond Sword",
+  "item.weapon_craftery.golden_sword": "Golden Sword",
+
+  "____comment": "Tooltips",
+  "tooltip.weapon_craftery.level": "Level",
+  "tooltip.weapon_craftery.xp": "XP",
+  "tooltip.weapon_craftery.enchantability": "Enchantability",
+  "tooltip.weapon_craftery.durability": "Durability",
+
+  "_____comment": "Rarity",
+  "rarity.weapon_craftery.common": "(Common)",
+  "rarity.weapon_craftery.uncommon": "(Uncommon)",
+  "rarity.weapon_craftery.rare": "(Rare)",
+  "rarity.weapon_craftery.epic": "(Epic)",
+  "rarity.weapon_craftery.legendary": "(Legendary)",
+  "rarity.weapon_craftery.???": "(???)"
+}

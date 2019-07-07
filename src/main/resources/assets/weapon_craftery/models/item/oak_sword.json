@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "weapon_craftery:item/oak_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "level": 0.2
+      },
+      "model": "weapon_craftery:item/oak_sword_level_2"
+    },
+    {
+      "predicate": {
+        "level": 0.3
+      },
+      "model": "weapon_craftery:item/oak_sword_level_3"
+    }
+  ]
+}

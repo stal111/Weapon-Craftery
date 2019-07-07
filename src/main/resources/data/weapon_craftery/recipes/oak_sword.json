@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "X": {
+      "item": "weapon_craftery:oak_stick"
+    }
+  },
+  "result": {
+    "item": "weapon_craftery:oak_sword"
+  }
+}
