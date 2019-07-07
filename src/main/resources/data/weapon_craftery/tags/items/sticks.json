@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "weapon_craftery:oak_stick",
+    "weapon_craftery:spruce_stick",
+    "weapon_craftery:birch_stick",
+    "weapon_craftery:jungle_stick",
+    "weapon_craftery:acacia_stick",
+    "weapon_craftery:dark_oak_stick"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "weapon_craftery:item/jungle_sword_3"
+  }
+}

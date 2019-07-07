@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_planks"
+    },
+    "X": {
+      "item": "weapon_craftery:jungle_stick"
+    }
+  },
+  "result": {
+    "item": "weapon_craftery:jungle_sword"
+  }
+}

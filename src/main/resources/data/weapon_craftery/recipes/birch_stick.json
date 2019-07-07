@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sticks",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "result": {
+    "item": "weapon_craftery:birch_stick",
+    "count": 4
+  }
+}
